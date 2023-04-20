@@ -34,7 +34,7 @@
 
 
 ```
-Predicting-Natural-Disasters-Frequencies-and-Cost/
+Storm-Damage-Prediction/
 ├── data/
 │   ├── raw/
 │   ├── processed/
