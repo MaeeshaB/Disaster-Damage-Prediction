@@ -29,13 +29,11 @@ Storm-Damage-Prediction/
 ├── data/
 │   ├── raw/
 │   ├── processed/
-│   └── external/
 ├── src/
 │   ├── data_preparation/
 │   ├── feature_engineering/
-│   ├── modeling/
-│   └── evaluation/
-├── notebooks/
+│   ├── prediction/
+│   └── optimization/
 ├── results/
 └── README.md
 ```
