@@ -35,10 +35,8 @@ Storm-Damage-Prediction/
 │   ├── feature_engineering/
 │   ├── modeling/
 │   └── evaluation/
-├── models/
 ├── notebooks/
 ├── results/
-├── utils/
 └── README.md
 ```
 
